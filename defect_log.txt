@@ -1,0 +1,12 @@
+
+PFMS - Phase 3 Defect Log
+=========================
+
+Defect ID | Description | Severity | Status
+----------|-------------|----------|-------
+DEF-001   | No confirmed defects found during the Phase 3 automated test execution. | - | Closed
+
+Notes:
+The defect log is maintained separately from the test results so that any
+future failed test can be documented and tracked without changing the
+original test evidence.
